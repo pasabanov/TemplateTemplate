@@ -17,9 +17,10 @@ You may also consider using the following section headers if applicable:
 - [ ] Bug fix
 - [ ] Feature
 - [ ] Documentation
+- [ ] Testing
 - [ ] Localization / Internationalization
-- [ ] Refactoring
-- [ ] Chore (dependencies, formatting, cleanup, etc.)
+- [ ] Refactoring, reformatting, cleanup
+- [ ] Dependency version updates
 - [ ] Configuration (build, project, repository, etc.)
 - [ ] Essential (readme, license, guidelines, security, etc.)
 - [ ] Other (please describe): _______
