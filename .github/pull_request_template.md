@@ -7,8 +7,8 @@ You may also consider using the following section headers if applicable:
 ### What is the current behavior?
 ### What is the new behavior?
 ### How to test
-### Future improvements
 ### Other information
+### Future improvements
 -->
 
 ### PR Type
