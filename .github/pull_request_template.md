@@ -10,18 +10,21 @@ You may also consider adding the following sections if applicable:
 -->
 
 ### PR Type
-<!-- You can remove unnecessary sections. -->
-<!-- Also remove anything unnecessary from the parentheses. -->
-- [ ] Bug fix
-- [ ] Feature
-- [ ] Documentation
-- [ ] Testing
-- [ ] Localization / Internationalization
-- [ ] Refactoring, reformatting, cleanup
-- [ ] Dependency version updates
-- [ ] Configuration (build, project, repository, CI/CD, etc.)
-- [ ] Essential (readme, license, guidelines, security, etc.)
-- [ ] Other (please describe): _______
+<!--
+Please pick all that apply and remove unnecessary sections.
+Also remove anything unnecessary from the parentheses.
+- Bug fix
+- Feature
+- Documentation
+- Testing
+- Localization / Internationalization
+- Refactoring, reformatting, cleanup
+- Dependency version updates
+- Configuration (build, project, repository, CI/CD, ...)
+- Project documents (readme, ...)
+- Other (please describe): _______
+-->
+
 
 ### Related
 <!-- If applicable, add links to related issues or pull requests. -->
