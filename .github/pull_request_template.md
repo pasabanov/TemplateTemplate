@@ -9,7 +9,7 @@ You may also consider adding the following sections if applicable:
 ### Future improvements
 -->
 
-### PR Type
+### Types of changes
 <!--
 Please pick all that apply and remove unnecessary sections.
 Also remove anything unnecessary from the parentheses.
