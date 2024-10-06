@@ -1,8 +1,6 @@
 <!--
 Please complete the relevant sections.
-You can remove any that don't apply.
-
-You may also consider using the following section headers if applicable:
+You may also consider adding the following sections if applicable:
 ### Motivation
 ### What is the current behavior?
 ### What is the new behavior?
@@ -26,7 +24,7 @@ You may also consider using the following section headers if applicable:
 - [ ] Other (please describe): _______
 
 ### Related
-<!-- Add links to related issues or pull requests here. -->
+<!-- If applicable, add links to related issues or pull requests. -->
 
 
 ### Describe changes
