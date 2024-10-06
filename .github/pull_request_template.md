@@ -19,7 +19,7 @@ You may also consider adding the following sections if applicable:
 - [ ] Localization / Internationalization
 - [ ] Refactoring, reformatting, cleanup
 - [ ] Dependency version updates
-- [ ] Configuration (build, project, repository, etc.)
+- [ ] Configuration (build, project, repository, CI/CD, etc.)
 - [ ] Essential (readme, license, guidelines, security, etc.)
 - [ ] Other (please describe): _______
 
