@@ -11,7 +11,7 @@ You may also consider adding the following sections if applicable:
 
 ### Types of changes
 <!--
-Please pick all that apply and remove unnecessary sections.
+Pick all that apply and remove unnecessary sections.
 Also remove anything unnecessary from the parentheses.
 - Bug fix
 - Feature
