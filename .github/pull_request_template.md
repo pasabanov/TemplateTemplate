@@ -10,7 +10,7 @@ Pick all that apply and remove unnecessary items from the parentheses.
 - Dependency version updates
 - Configuration (build, project, repository, CI/CD, ...)
 - Project documents (readme, ...)
-- Other (please describe): _______
+- Other: _______
 -->
 
 
@@ -22,9 +22,7 @@ Related:
 <!--
 You may also consider adding the following sections:
 ### Motivation
-### What is the current behavior?
 ### What is the new behavior?
 ### How to test
-### Other information
 ### Future improvements
 -->
