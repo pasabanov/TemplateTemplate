@@ -1,18 +1,6 @@
-<!--
-Please complete the relevant sections.
-You may also consider adding the following sections if applicable:
-### Motivation
-### What is the current behavior?
-### What is the new behavior?
-### How to test
-### Other information
-### Future improvements
--->
-
 ### Types of changes
 <!--
-Pick all that apply and remove unnecessary sections.
-Also remove anything unnecessary from the parentheses.
+Pick all that apply and remove unnecessary items from the parentheses.
 - Bug fix
 - Feature
 - Documentation
@@ -26,9 +14,17 @@ Also remove anything unnecessary from the parentheses.
 -->
 
 
-### Related
-<!-- If applicable, add links to related issues or pull requests. -->
+Related: 
+
+### Description
 
 
-### Describe changes
-<!-- Describe the changes you have made. -->
+<!--
+You may also consider adding the following sections:
+### Motivation
+### What is the current behavior?
+### What is the new behavior?
+### How to test
+### Other information
+### Future improvements
+-->
