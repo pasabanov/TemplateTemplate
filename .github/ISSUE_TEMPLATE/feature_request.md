@@ -10,6 +10,6 @@ labels: enhancement
 ### Solution or Suggestion
 
 
-### Current Release
+### Current release
 - Version: 
 - OS: 
